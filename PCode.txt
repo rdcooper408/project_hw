@@ -1,0 +1,16 @@
+Pseudo Code:
+ # Download Axolotl transcripts and store in large file
+ # make that file a searchable database
+ # clean up the database
+ 
+ # Put file into the cluster analysis software
+ # "purify" the transcripts so that i get them down to gene families
+ # Blast sequences against Xenopus genome
+ # save list of proteins to a text file
+ 
+ # run the list of proteins through BLAST-II-GO
+ # Pull out the genes that are associated with metamorphosis
+ 
+ # design capture array to target these specific genes
+ # write code to write a report for me... im thinking DeepDive????
+ 
